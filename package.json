@@ -42,7 +42,7 @@
         "diff": "^4.0.1",
         "ejs": "^2.7.1",
         "errorhandler": "^1.5.1",
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "express-session": "^1.17.0",
         "morgan": "^1.9.1",
         "sequelize": "^5.21.2",
